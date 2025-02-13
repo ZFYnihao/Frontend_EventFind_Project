@@ -1,2 +1,2 @@
 # Frontend_EventFind_Project
-Frondend Repository for Project
+Frontend Repository for Project
